@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Cristiano Ferreira de Oliveira
+title: Marianna Mendoza Hernández
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -68,12 +68,12 @@ author:
 # Para modificar, basta adicionar o link do perfil em SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "cristiano2132.ufv@gmail.com"
-  facebook: daattali
-  github: daattali
+  email: "marianna2905@hotmail.com"
+  facebook: https://www.facebook.com/marianna.mendoza.96
+  github: Marianna101241
 #  twitter: daattali
 #  reddit: yourname
-  linkedin: daattali
+  linkedin: Marianna
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
